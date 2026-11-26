@@ -57,7 +57,7 @@ Mình hay bật lofi, pha một ly cà phê sữa rồi ngồi lựa sticker mè
 <p align="center"><em>Vietnam Developer · Coding with National Pride</em></p>
 
 <p align="center"><strong>🚀 Hãy cùng xây dựng tương lai! 🚀</strong><br>
-Cảm ơn bạn đã ghé chơi. Hẹn gặp lại ở góc nhỏ của Dũng!</p>
+Cảm ơn bạn đã ghé chơi. Hẹn gặp lại!</p>
 
 <p align="center"><img src="./vietnam.png" width="28" alt=""> &nbsp;
   <a href="https://nhqd.vercel.app/"><img src="./pixel-coder.png" width="100" alt="Ghé bàn làm việc của Dũng"></a>

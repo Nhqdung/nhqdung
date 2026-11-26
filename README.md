@@ -27,17 +27,38 @@ Mình có thể ngồi chỉnh đi chỉnh lại một chuyển động chỉ đ
 
 <p align="center"><code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Tailwind CSS</code></p>
 
-## ♫ Ngoài giờ code · Off the clock
+## 🎮 Phần vui · Fun section
 
 <details>
-<summary><strong>Mở playlist và ngồi chơi một chút</strong></summary>
+<summary><strong>Khi không code…</strong></summary>
 
-Mình thích nghe lofi lúc ngồi với một ly cà phê sữa. Khi muốn đổi nhịp thì có remix, mixtape hoặc một ván FPS. Còn nếu thấy sticker mèo dễ thương, kiểu gì mình cũng lưu lại.
+Mình hay bật lofi, pha một ly cà phê sữa rồi ngồi lựa sticker mèo. Hôm nào muốn đổi nhịp thì mình chuyển sang remix hoặc rủ bạn bè vào một ván FPS.
 
-[Qua trang cá nhân nghe nhạc cùng mình ↗](https://nhqd.vercel.app/)
+[Nghe nhạc cùng mình trên trang cá nhân ↗](https://nhqd.vercel.app/)
 
 </details>
 
+## 🌟 Lượt xem profile · Profile views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhqdung&amp;label=PROFILE+VIEWS&amp;color=c95778&amp;style=for-the-badge" alt="Bộ đếm lượt xem profile của Nhqdung" height="26">
+  &nbsp; <img src="./vietnam.png" width="29" alt="Cờ Việt Nam">
+</p>
+
 ---
 
-<p align="center"><em>Cảm ơn bạn đã ghé góc nhỏ của mình.</em><br><strong>Dũng</strong></p>
+<p align="center"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./snake-grid.png">
+  <img src="./snake-grid.gif" width="100%" alt="Rắn pixel màu tím chạy trên lưới ô xanh">
+</picture></p>
+
+<h3 align="center">🇻🇳 “Hãy yêu nước như yêu từng nhịp thở.” 🇻🇳</h3>
+
+<p align="center"><em>Vietnam Developer · Coding with National Pride</em></p>
+
+<p align="center"><strong>🚀 Hãy cùng xây dựng tương lai! 🚀</strong><br>
+Cảm ơn bạn đã ghé chơi. Hẹn gặp lại ở góc nhỏ của Dũng!</p>
+
+<p align="center"><img src="./vietnam.png" width="28" alt=""> &nbsp;
+  <a href="https://nhqd.vercel.app/"><img src="./pixel-coder.png" width="100" alt="Ghé bàn làm việc của Dũng"></a>
+  &nbsp; <img src="./vietnam.png" width="28" alt=""></p>

@@ -1,11 +1,23 @@
-[![Quốc Dũng · Creative Web Developer · Phú Yên → TP. Hồ Chí Minh](./profile-banner.png)](https://nhqd.vercel.app/)
+<a href="https://nhqd.vercel.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./profile-banner.png">
+    <img src="./profile-banner.gif" width="100%" alt="Nguyễn Hoàng Quốc Dũng · Creative Web Developer · Xin chào từ Sài Gòn!">
+  </picture>
+</a>
 
-## Chào bạn, mình là Dũng.
+### Chào bạn, cứ gọi mình là Dũng.
 
-Mình là **Nguyễn Hoàng Quốc Dũng**, sinh viên Công nghệ thông tin quê Phú Yên, hiện sống ở TP. Hồ Chí Minh. Mình mê làm giao diện web, nhất là lúc chỉnh một nút bấm hay canh một chuyển cảnh cho thật vừa mắt.
+Mình quê **Phú Yên**, hiện sống và học Công nghệ thông tin ở **TP. Hồ Chí Minh**. Khi làm web, mình hay dừng lại ở những chi tiết bé xíu: một nút bấm khẽ nảy lên, hay một chiếc sticker nằm ở góc màn hình. Đó là phần mình thích nhất khi viết frontend.
 
-Ngoài giờ code, mình thích cà phê sữa, nhạc lofi và sưu tầm sticker. Mấy hình dán dễ thương ấy thỉnh thoảng lại cho mình ý tưởng để vẽ giao diện.
+**Trên bàn làm việc** &nbsp; <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
 
-**Góc frontend của mình** · React · Next.js · TypeScript · Tailwind CSS
+<details>
+<summary><strong>Ngoài giờ code, Dũng thích gì?</strong></summary>
 
-[Ghé trang cá nhân ↗](https://nhqd.vercel.app/) · [Kết nối qua Facebook ↗](https://facebook.com/dgx14th6)
+Một ly cà phê sữa, một playlist lofi, vài chiếc sticker mới. Mình cũng mê mèo và game FPS. Bạn đã gặp chú mèo đang ngủ trên màn hình ở đầu trang rồi đấy!
+
+</details>
+
+---
+
+<p align="center"><a href="https://nhqd.vercel.app/"><strong>Ghé trang cá nhân ↗</strong></a> &nbsp; · &nbsp; <a href="https://facebook.com/dgx14th6">Facebook</a> &nbsp; · &nbsp; <a href="https://www.tiktok.com/@_.qocdug146._">TikTok</a></p>

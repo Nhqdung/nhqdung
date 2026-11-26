@@ -1,23 +1,43 @@
-<a href="https://nhqd.vercel.app/">
-  <picture>
+<p align="center">
+  <a href="https://nhqd.vercel.app/"><picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./profile-banner.png">
-    <img src="./profile-banner.gif" width="100%" alt="Nguyễn Hoàng Quốc Dũng · Creative Web Developer · Xin chào từ Sài Gòn!">
-  </picture>
-</a>
+    <img src="./profile-banner.gif" width="100%" alt="Quốc Dũng · Creative Web Developer. Xin chào từ Phú Yên, Việt Nam!">
+  </picture></a>
+</p>
 
-### Chào bạn, cứ gọi mình là Dũng.
+<p align="center"><strong><a href="https://nhqd.vercel.app/">Trang cá nhân ↗</a></strong> &nbsp; · &nbsp; <a href="https://facebook.com/dgx14th6">Facebook</a> &nbsp; · &nbsp; <a href="https://www.tiktok.com/@_.qocdug146._">TikTok</a></p>
 
-Mình quê **Phú Yên**, hiện sống và học Công nghệ thông tin ở **TP. Hồ Chí Minh**. Khi làm web, mình hay dừng lại ở những chi tiết bé xíu: một nút bấm khẽ nảy lên, hay một chiếc sticker nằm ở góc màn hình. Đó là phần mình thích nhất khi viết frontend.
+## 🇻🇳 Thông tin cá nhân · Personal info
 
-**Trên bàn làm việc** &nbsp; <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+<table>
+  <tr>
+    <td width="35%" align="center"><img src="./desk.png" width="260" alt="Mèo cam ngủ trên chiếc máy tính cạnh ly cà phê sữa"></td>
+    <td>
+      <strong>Nguyễn Hoàng Quốc Dũng</strong><br>
+      <code>@nhqdung</code><br><br>
+      Quê Phú Yên, hiện sống ở TP. Hồ Chí Minh.<br>
+      Sinh viên Công nghệ thông tin, mê thiết kế giao diện web.
+    </td>
+  </tr>
+</table>
+
+## ✦ Về mình · About me
+
+Mình có thể ngồi chỉnh đi chỉnh lại một chuyển động chỉ để chiếc nút trông như khẽ nảy lên khi bạn bấm. Mình cũng thích giấu một chi tiết nhỏ ở góc trang, kiểu như chú mèo đang ngủ ngay phía trên. Nếu bạn vô tình bắt gặp nó, coi như tụi mình vừa chào nhau.
+
+<p align="center"><code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Tailwind CSS</code></p>
+
+## ♫ Ngoài giờ code · Off the clock
 
 <details>
-<summary><strong>Ngoài giờ code, Dũng thích gì?</strong></summary>
+<summary><strong>Mở playlist và ngồi chơi một chút</strong></summary>
 
-Một ly cà phê sữa, một playlist lofi, vài chiếc sticker mới. Mình cũng mê mèo và game FPS. Bạn đã gặp chú mèo đang ngủ trên màn hình ở đầu trang rồi đấy!
+Mình thích nghe lofi lúc ngồi với một ly cà phê sữa. Khi muốn đổi nhịp thì có remix, mixtape hoặc một ván FPS. Còn nếu thấy sticker mèo dễ thương, kiểu gì mình cũng lưu lại.
+
+[Qua trang cá nhân nghe nhạc cùng mình ↗](https://nhqd.vercel.app/)
 
 </details>
 
 ---
 
-<p align="center"><a href="https://nhqd.vercel.app/"><strong>Ghé trang cá nhân ↗</strong></a> &nbsp; · &nbsp; <a href="https://facebook.com/dgx14th6">Facebook</a> &nbsp; · &nbsp; <a href="https://www.tiktok.com/@_.qocdug146._">TikTok</a></p>
+<p align="center"><em>Cảm ơn bạn đã ghé góc nhỏ của mình.</em><br><strong>Dũng</strong></p>
